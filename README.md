@@ -10,8 +10,8 @@
 <h2> About Me</h2>
   
 - 🎓 Ph.D. student in the field of Machine Learning and Computational Mechanics at @MIT and @FEUP
-- 🧑🏽‍🏫 Invited Assistante Professor of the Integrated Master in Mechanical Engineering: Mechanical Engineering Drawing Course
-- 💻 Research Intern at [Inductiva Research Labs](https://inductiva.ai/)
+- 🧑🏽‍🏫 Invited Assistante Professor of the Integrated Master in Mechanical Engineering: Mechanical Engineering Drawing Course at @FEUP
+- 💻 Research Intern at @[Inductiva Research Labs](https://inductiva.ai/)
 - 💬 Passionate about Artificial Intelligence in Mechanical Engineering, especially to create better designs of complex mechanical systems based on structural analysis
 - Hobbies: 🏄‍♂️ 📷 ✈️ 🎸
   
