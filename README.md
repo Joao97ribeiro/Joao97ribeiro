@@ -21,9 +21,17 @@
   <a href = "mailto:jp.ar@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>  
 </div>
 
+<h2> Languages and Tools:</h2>
+
+<div align="center">
+  <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
+  <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
+  <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+</div>
+
+  
 <h2> GitHub Status</h2>
  
-<div>
   <a href="https://github.com/Joao97ribeiro/Joao97ribeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao97ribeiro&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <div style="display: inline_block"><br>
