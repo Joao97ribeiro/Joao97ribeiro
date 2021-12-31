@@ -6,12 +6,9 @@
   
 <h2> About Me</h2>
   
-- 🎓 Ph.D. student in the field of Machine Learning (ML) and Computational Mechanics at MIT and FEUP
-  
-- 🧑🏽‍🏫 Invited Assistante Professor of the Integrated Master in Mechanical Engineering: Mechanical Engineering Drawing Cours
-  
-- 💻 Research Intern at Inductiva Research Labs
-  
+- 🎓 Ph.D. student in the field of Machine Learning and Computational Mechanics at MIT and FEUP
+- 🧑🏽‍🏫 Invited Assistante Professor of the Integrated Master in Mechanical Engineering: Mechanical Engineering Drawing Course
+- 💻 Research Intern at [Inductiva Research Labs](https://inductiva.ai/)
 - 💬 Passionate about Artificial Intelligence in Mechanical Engineering, especially to create better designs of complex mechanical systems based on structural analysis
   
 <div align="center">
@@ -23,9 +20,9 @@
 <h2> GitHub Status</h2>
  
 <div>
-  <a href="https://github.com/Joao97ribeiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao97ribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao97ribeiro&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Joao97ribeiro/Joao97ribeiro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao97ribeiro&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao97ribeiro&layout=compact&langs_count=7&theme=default"/>
   </div>
   <div style="display: inline_block"><br>
  
