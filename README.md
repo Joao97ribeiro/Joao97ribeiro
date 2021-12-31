@@ -25,7 +25,7 @@
  
 <div>
   <a href="https://github.com/Joao97ribeiro/Joao97ribeiro">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Joao97ribeiro&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao97ribeiro&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <div style="display: inline_block"><br>
  
  
